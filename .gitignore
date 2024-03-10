@@ -1,1 +1,4 @@
 models/*.pt
+*.jpg
+*.png
+__pycache__
