@@ -1,7 +1,7 @@
-1. Install Streamlit:
-Ensure that Streamlit is installed. You can install it using pip:
+1. Install Streamlit and drawable canvas for drawing numbers:
+Ensure that Streamlit and Drawable canvas module is installed. You can install it using pip:
 ```
-pip install streamlit
+pip install streamlit streamlit-drawable-canvas
 ```
 2. Navigate to the Application Directory:
 Open a terminal (on Windows, macOS, or Linux) and navigate to the directory where the App.py file is located. You can do this using the cd command:
